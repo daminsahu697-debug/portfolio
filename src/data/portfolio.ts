@@ -210,7 +210,7 @@ export const projects: Project[] = [
     ],
     category: "Web / Software",
     status: "In Progress",
-    githubUrl: "https://github.com/daminsahu697-debug",
+    githubUrl: "https://github.com/daminsahu697-debug/Secure_chain_dms",
     imageAlt: "SecureChain DMS architecture diagram",
   },
   {
@@ -236,7 +236,6 @@ export const projects: Project[] = [
     ],
     category: "AI / IoT",
     status: "Prototype",
-    githubUrl: "https://github.com/daminsahu697-debug",
     imageAlt: "IoT Smart Waste Management System prototype node",
   },
   {
@@ -262,8 +261,8 @@ export const projects: Project[] = [
     ],
     category: "Web / Software",
     status: "Completed",
-    githubUrl: "https://github.com/daminsahu697-debug",
-    liveUrl: "#",
+    githubUrl: "https://github.com/daminsahu697-debug/portfolio",
+    liveUrl: "https://damin-portfolio.vercel.app",
     imageAlt: "Damin Sahu Portfolio Website interface preview",
   },
 ];
